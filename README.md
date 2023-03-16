@@ -1,2 +1,2 @@
-# vende
+# Pincipal
 repositorio de git
